@@ -1,0 +1,21 @@
+h1,h5,p,table{
+    text-align: center;
+}
+.freshers{
+    width: 500px;
+}
+h2{
+    display: inline;
+}
+button{
+    background-color: red;
+}
+button:hover{
+    background-color: rgb(0, 255, 30);
+}
+table img{
+    width: 30px;
+}
+.earpods{
+    width: 60px!important;
+}
